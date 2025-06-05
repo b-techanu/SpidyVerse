@@ -586,11 +586,11 @@ header {
         font-size: 12px;
         padding: 0 5px;
     }
-    .hero-info{
+    /* .hero-info{
         left: 5%;
-    }
+    } */
     .hero-section h1{
-        font-size: 90px;
+        font-size: 50px;
     }
     .nxt-btn{
         left: 25px;
@@ -610,22 +610,19 @@ header {
         max-width: 350px;
         text-align: center;
     }
+    .contact-section .img1{
+        display: none;
+    }
     .contact-section .img2{
-        width: 150px;
-        height: 200px;
-        right: 0;
-        top: 20px;
+        top: 100px;
+        left: 270px;
+        width: 300px;
+        height: 210px;
     }
     .contact-section .img3{
-        top: 30px;
-        left: -40px;
+        bottom: 30px;
+        left: -20px;
         width: 180px;
-        height: 180px;
-    }
-    .contact-section .img4{
-        left: -40px;
-        bottom: 0;
-        width: 150px;
         height: 180px;
     }
     .contact-section h1{
@@ -639,46 +636,4 @@ header {
         margin-left: 70px;
     }
 
-}
-
-/* Responsive: Tablets */
-@media (min-width: 601px) and (max-width: 1024px) {
-    header {
-        padding: 10px 30px;
-    }
-
-    .hero-info h1 {
-        font-size: 60px;
-    }
-
-    .gaming-text {
-        font-size: 50px;
-    }
-
-    .about-section h1 {
-        font-size: 60px;
-    }
-
-    .info-cards {
-        grid-template-columns: 1fr 1fr;
-    }
-
-    .card:nth-child(2) {
-        height: 60vh;
-    }
-
-    .contact-section h1 {
-        font-size: 50px;
-    }
-
-    .footer {
-        flex-direction: column;
-        padding: 20px;
-    }
-
-    .footer ul {
-        margin: 0;
-        flex-wrap: wrap;
-        justify-content: center;
-    }
 }
