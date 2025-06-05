@@ -1,6 +1,6 @@
 # SpidyVerse 🌐🕷️
 
-A responsive and visually engaging website inspired by the Spiderman multiverse. This project blends animation, sound effects, and dynamic visuals to deliver an immersive web experience for fans of the Spider-Verse universe.
+A visually engaging website inspired by the Spiderman multiverse. This project blends animation, sound effects, and dynamic visuals to deliver an immersive web experience for fans of the Spider-Verse universe.
 
 ## 🚀 Features
 
