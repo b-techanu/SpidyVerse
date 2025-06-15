@@ -39,7 +39,7 @@ This project is creatively inspired by the visual theme of the Spider-Verse movi
 
 ## 📜 License
 
-© 2025 Anurag. All rights reserved.
+© 2025 Anurag Mishra. All rights reserved.
 
 ---
 
